@@ -1,0 +1,1 @@
+This website is a project developed for the borntoDev course, which focuses on web fundamentals and UI design. The project requirement was to create a custom website and design an elegant user interface.
